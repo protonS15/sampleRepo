@@ -3,8 +3,10 @@ package Pages;
 public class LoginPage {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String un = "test";
+		String pwd = "pwd";
+		
+		System.out.print("Username is " + un + " Password is " + pwd);
 	}
 
 }
